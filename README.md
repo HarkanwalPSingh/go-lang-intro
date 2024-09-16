@@ -14,3 +14,6 @@ Build and run
 go build filename.go
 ./filename
 ```
+
+## Useful reads
+- [Slices Intro](https://go.dev/blog/slices-intro)

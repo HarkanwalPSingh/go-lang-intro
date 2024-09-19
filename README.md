@@ -1,5 +1,5 @@
 # go-lang-intro
-Intro repo for learning GO
+Intro repo for learning GO - following https://gobyexample.com/
 
 ## Simple commands
 
